@@ -1,0 +1,43 @@
+.navigation {
+	list-style: none;
+	padding: 0;
+}
+
+.navigation-link {
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+	color:  #939699;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 14px;
+	line-height: 20px;
+	text-transform: uppercase;
+	letter-spacing: 0.7px;
+}
+
+.button {
+	align-items: center;
+	border: none;
+	display: flex;
+	align-items: center;
+	padding: 10px 20px;
+	width: 95px;
+	height: 40px;
+	right: 105px;
+	top: 15px;
+	background: #4592FF;
+	border-radius: 20px;
+	cursor: pointer;
+	
+}
+
+.button-text {
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 14px;
+	line-height: 20px;
+	color: #fff;
+	margin-left: 10px;
+}
